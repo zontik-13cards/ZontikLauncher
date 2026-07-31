@@ -40,7 +40,7 @@ with this program; if not, write to the Free Software Foundation, Inc.,
 #define INTERNET_SIMULATOR 0
 #define INTERNET_SIMULATOR_PACKET_LOSS 10 // 10 = easy, 4 = hard
 
-#define CONNECTION_TIMEOUT 30
+#define CONNECTION_TIMEOUT 300
 
 #define RESEND_TIMEOUT_MIN 0.1
 #define RESEND_TIMEOUT_MAX 3.0
